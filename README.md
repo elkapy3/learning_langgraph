@@ -31,8 +31,11 @@ Clone the repository:
 
 Tools & Technologies
 NLP: SpaCy, langdetect, TextBlob
+
 Graph Management: NetworkX
+
 Visualization: Plotly, Dash (optional)
+
 Machine Learning (Optional): scikit-learn, Hugging Face Transformers
 
 Contributing
