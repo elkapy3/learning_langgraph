@@ -1,4 +1,4 @@
-Learning LangGraph 🌐
+#Learning LangGraph 🌐
 
 Learning LangGraph is a project that uses knowledge graphs to capture, visualize, and analyze language structures across multiple languages. 
 This repository provides tools and scripts for building interconnected graphs that help visualize relationships in vocabulary, grammar, and syntax in language learning, translation, or NLP applications.
